@@ -1,0 +1,9 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+[[mods]] #mandatory
+modId="spycraft" #mandatory
+version="1.0" #mandatory
+displayName="SpyCraft" #mandatory
+description='''
+Walkie-talkies!
+'''
