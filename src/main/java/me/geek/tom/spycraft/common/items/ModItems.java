@@ -1,4 +1,4 @@
-package me.geek.tom.spycraft.items;
+package me.geek.tom.spycraft.common.items;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;

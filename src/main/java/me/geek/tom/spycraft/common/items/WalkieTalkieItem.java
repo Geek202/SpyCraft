@@ -1,4 +1,4 @@
-package me.geek.tom.spycraft.items;
+package me.geek.tom.spycraft.common.items;
 
 import com.mojang.realmsclient.gui.ChatFormatting;
 import net.minecraft.client.util.ITooltipFlag;
